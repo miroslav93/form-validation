@@ -16,7 +16,7 @@ the dash is optional as well
 
 the email address field accepts the following format
 (any number of alphanumerical symbols)@(any number of alphanumerical symbols).(up to five characters)
-Example johndoe123@test1test1test.media
+ - Example johndoe123@test1test1test.media
 
 The phone number accepts the following formats
  - nnn-nnn-nnnn
